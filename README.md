@@ -1,1 +1,3 @@
-# MarketShop
+# PomodoroApp
+
+# In this app i go use python, database... 
